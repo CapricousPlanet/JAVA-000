@@ -34,6 +34,18 @@
   * MaxDirectMemorySize : specifies the maximum total size of java.nio (New I/O package) direct buffer allocations.
   * MaxMetaSpaceSize, MaxPermSize - Specifying the MetaSpace (the memory the VM uses to store class MetaData (the data that describes other data)) size.
 
+### 3.4 GC
+ 
+ #### 3.4.1 Responsiveness/Latency vs Throughput
+ #### 3.4.2 GC Algorithm: Mark-Sweep-Compacting
+ #### 3.4.3 GC Collectors:
+   * Serial
+   * Concurrent - Latency First
+   * Parallel - Throughtput First
+   * G1 - Latency First
+   
+![Garbage collector](https://s3.amazonaws.com/oodles-technologies1/blog-images/a6e93294-5c41-4a13-943c-f57c2e9b1493.jpeg)
+
 #### Todo:
 - [ ] Learn more about Direct Buffer VS Byte Buffer
 - [ ] Try Java Flight Recorder 

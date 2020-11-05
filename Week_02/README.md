@@ -5,7 +5,7 @@
   ![BIO](https://www.fatalerrors.org/images/blog/e06c2e19470772d224ee45c35dce92c1.jpg)
   
   ### 1.2 NIO (Non-blocking I/O)
-  ![NIO](https://intl.aliyun.com/forum/attachment/1612/thread/22_634_bcabb2910da4ead.png)
+  ![NIO](https://actimem.com/wp-content/uploads/2017/08/Nio_Selector.png)
   
   ### 1.3 AIO (Asynchronous I/O)
   
